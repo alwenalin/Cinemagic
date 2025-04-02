@@ -43,14 +43,14 @@ To compile and run the program, you will need a C++ compiler that supports at le
 ## Compilation
 To compile all the `.cpp` files together, navigate to the directory containing the source code files and run the following command:
 ```
-g++ -std=c++11 -o MovieRecommender main.cpp User.cpp UserDatabase.cpp Movie.cpp MovieDatabase.cpp Recommender.cpp
+g++ -std=c++11 -o Cinemagic main.cpp User.cpp UserDatabase.cpp Movie.cpp MovieDatabase.cpp Recommender.cpp
 ```
-This command compiles all the `.cpp` files and creates an executable named `MovieRecommender`.
+This command compiles all the `.cpp` files and creates an executable named `Cinemagic`.
 
 Note: The `-std=c++11` option is used to specify that the C++11 standard should be used for compilation.
 
 ## Execution
-To run the `MovieRecommender` executable, use the following command:
+To run the `Cinemagic` executable, use the following command:
 ```
-./MovieRecommender
+./Cinemagic
 ```
