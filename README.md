@@ -1,4 +1,4 @@
-# Movie-Recommender
+# Cinemagic
 This project is a movie recommendation system that suggests movies to users based on an underlying recommendation algorithm encapsulated within the system. The system operates on a database of users and a database of movies, where each user has a set of movie preferences and each movie has a set of attributes.
 
 ## Program Structure
